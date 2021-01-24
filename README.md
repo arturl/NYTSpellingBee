@@ -1,1 +1,2 @@
-# NYTSpellingBee
+# NYT Spelling Bee
+![](docs/bee.png)
