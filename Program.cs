@@ -115,8 +115,8 @@ namespace NYTSpellingBee
         {
             var dictionary = File.ReadAllLines("words-short.txt");
 
-            var required_letter = 'h';
-            var all_letters = new char[] { 'h', 'g', 'w', 'i', 't', 'd', 'e' };
+            var required_letter = 'b';
+            var all_letters = new char[] { 'b', 'o', 'n', 'l', 'p', 'a', 'e' };
 
             var stopwatch = Stopwatch.StartNew();
 
